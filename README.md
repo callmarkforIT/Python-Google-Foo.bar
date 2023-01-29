@@ -1,5 +1,7 @@
 # Python-Google-Foo.bar
 
+![375CCFBB-71E5-4040-AE2E-A79D9FD04E6E](https://raw.githubusercontent.com/callmarkforIT/Python-Google-Foo.bar/main/foobar.jpg)
+
 ## Challenge Level 1:
 
 The cake is round, and decorated with M&Ms in a circle around the edge. But while the rest of the cake is uniform, the M&Ms are not: there are multiple colors, and every minion must get exactly the same sequence of M&Ms. Commander Lambda hates waste and will not tolerate any leftovers, so you also want to make sure you can serve the entire cake.
